@@ -1,7 +1,7 @@
 /**
  * OWASP Benchmark v1.2
  *
- * <p>This file is part of the Open Web Application Security Project (OWASP) Benchmark Project. For
+ * <p>This file is part of the Open Web Application Security Project (OWASP) Benchmark Project.. For
  * details, please see <a
  * href="https://owasp.org/www-project-benchmark/">https://owasp.org/www-project-benchmark/</a>.
  *
